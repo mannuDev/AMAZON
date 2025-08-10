@@ -8,3 +8,7 @@ class Solution {
         return n_xor;
     }
 }
+
+//TC. : O(N)
+//SC. : O(1)
+//mannusharma
